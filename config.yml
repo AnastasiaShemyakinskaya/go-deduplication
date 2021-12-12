@@ -1,0 +1,5 @@
+postgres: "host=localhost user=postgres password=postgres dbname=postgres sslmode=disable"
+byteSize: 64
+fileDirectory: ""
+hashFunction: "SHA256"
+address: "localhost:8080"
